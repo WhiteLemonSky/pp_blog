@@ -1,0 +1,18 @@
+
+#page_site-info{
+    position: absolute;
+    top: 10rem;
+    width: 100%;
+    text-align: center;
+}
+#site-title{
+    font-size: 2rem;
+    color: #4c4948;
+    text-shadow: 0.1rem 0.1rem 0.2rem rgb(0 0 0 / 15%);
+    line-height: 1.5;
+    font-weight: bold;
+    
+}
+html{
+    font-family:STZhongsong,YouYuan; ;
+}
